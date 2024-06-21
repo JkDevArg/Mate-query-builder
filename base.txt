@@ -1,0 +1,13 @@
+mate/
+├── src/
+│   ├── ConstructorConsulta.php
+│   ├── ConstructorSelect.php
+│   ├── ConstructorInsert.php
+│   ├── ConstructorUpdate.php
+│   ├── ConstructorDelete.php
+│   ├── ConstructorProcedimientoAlmacenado.php
+│   └── Conexion.php
+├── tests/
+│   └── PruebasConexion.php
+├── composer.json
+└── README.md

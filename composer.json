@@ -1,0 +1,33 @@
+{
+    "name": "jcenturion/mate-query-builder",
+    "description": "Mate es una biblioteca simple de constructor de consultas para PHP 8.0+ con soporte para procedimientos almacenados",
+    "keywords": [
+        "php",
+        "query-builder",
+        "argentina",
+        "mate"
+    ],
+    "homepage": "https://github.com/JkDevArg/Mate-query-builder",
+    "authors": [
+        {
+            "name": "Joaquin Centurion",
+            "email": "joaqhoc@gmail.com",
+            "homepage": "https://github.com/JkDevArg/Mate-query-builder",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mate\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
